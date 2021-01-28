@@ -16,5 +16,5 @@ I have a commercial experience with VueJS, React and Python. After work, I'm lea
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=porithe&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" width="400" alt="my stats" />
       <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=4&theme=onedark" width="400" alt="langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porithe&langs_count=4&theme=onedark" width="400" alt="langs" />
 </p>
